@@ -61,6 +61,21 @@
 - 점수 입력값 제한
 - 이수, 필수, 과목명 순 오름차순 정렬 등
 
+### 파일 구조
+```
+/front-end-final/
+│
+├──public/
+│  └──index.html
+│
+└──src/
+   ├──GradeManagement.js
+   ├──index.js
+   └──index.css
+
+```
+
+
 ### 결과
 
 [실행 화면](https://front-end-final-ten.vercel.app/, "실행 화면")
